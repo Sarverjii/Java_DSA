@@ -28,6 +28,6 @@ public class Nine {
             System.out.println(number + " is an Armstrong Number");
         else    
             System.out.println(number + " is not an Armstrong Number");
-
+        sc.close();
     }
 }

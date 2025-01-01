@@ -17,5 +17,6 @@ public class Inter19 {
             a = temp;
         }
         System.out.println("The HCF of " + num1 + " and " + num2 + " is: " + a);
+        sc.close();
     }
 }    

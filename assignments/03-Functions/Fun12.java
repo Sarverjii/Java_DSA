@@ -22,6 +22,7 @@ public class Fun12 {
         } else {
             System.out.println(a + ", " + b + ", " + c + " is not a Pythagorean triplet");
         }
+        sc.close();
     }
 
 }

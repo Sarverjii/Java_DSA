@@ -9,5 +9,6 @@ public class Basic8 {
         float radius = sc.nextFloat();
 
         System.out.println("The perimeter of the Radius is : " + (2*3.14*radius));
+        sc.close();
     }
 }

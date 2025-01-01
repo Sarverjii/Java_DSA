@@ -13,5 +13,6 @@ public class Basic23 {
             if(number%i==0)
                 System.out.print(i + " ");
         }
+        sc.close();
     }
 }

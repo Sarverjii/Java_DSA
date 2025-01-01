@@ -11,6 +11,7 @@ public class Basic11 {
         float breath = sc.nextFloat();
 
         System.out.println("The Perimeter of the Rectangle is : " + (2*(length+breath)));
+        sc.close();
     }
 
 }

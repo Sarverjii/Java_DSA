@@ -14,5 +14,6 @@ public class Inter12 {
             sum += sc.nextInt();
         }
         System.out.println("The Average Score is : "+(sum/n));
+        sc.close();
     }
 }

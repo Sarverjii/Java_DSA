@@ -21,5 +21,6 @@ public class Inter17 {
         }
         else
             System.out.println("The Entered Number is not a palindrome");
+        sc.close();
     }
 }

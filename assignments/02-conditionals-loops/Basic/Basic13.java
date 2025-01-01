@@ -8,5 +8,6 @@ public class Basic13 {
         System.out.print("Enter the side of the Rhombus");
         float side = sc.nextFloat();
         System.out.println("The Perimeter of the Rhombus is : " + 4*side);
+        sc.close();
     }
 }

@@ -17,5 +17,6 @@ public class Five{
             System.out.println(num2 + " Is greater than "+ num1);
         else
             System.out.println("Both numbers are equal");
+        sc.close();
     }
 }

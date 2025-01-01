@@ -8,6 +8,7 @@ public class Basic17{
         System.out.print("Enter the radius of the Sphere : ");
         float r = sc.nextFloat();
         System.out.println("The Volume of the Sphere is : " + (3.14 * r * r * r));
+        sc.close();
 
     }
 }

@@ -8,5 +8,6 @@ public class Basic20 {
         System.out.print("Enter the side of the Cube : ");
         float side = sc.nextFloat();
         System.out.println("Total Surface Area of Cube is : " + (6 * side * side));
+        sc.close();
     }
 }

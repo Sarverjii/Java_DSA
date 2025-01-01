@@ -10,5 +10,6 @@ public class Basic26 {
         System.out.print("Enter Number Two : ");
         float num2 = sc.nextFloat();
         System.out.println("The Sum of the 2 Numbers is : " + (num1+num2));
+        sc.close();
     }
 }

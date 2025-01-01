@@ -14,5 +14,6 @@ public class Basic2{
         float s = (a+b+c)/2;
         double area = Math.sqrt((s*(s-a)*(s-b)*(s-c)));
         System.out.println("The area of the Circle is : " + area);
+        sc.close();
     }
-    }
+}

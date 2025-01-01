@@ -11,5 +11,6 @@ public class Basic19 {
         float h = sc.nextFloat();
 
         System.out.println("The Curved Surface Area of the Cylinder is : " + (2 * 3.14 * r * h));
+        sc.close();
     }
 }

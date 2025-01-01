@@ -16,5 +16,6 @@ public class Fun03 {
         System.out.print("Enter Your Age : ");
         int age = sc.nextInt();
         System.out.println("You are " + Vote_or_Not(age) + " to Vote.");
+        sc.close();
     }
 }

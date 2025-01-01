@@ -10,5 +10,6 @@ public class Basic18 {
         System.out.print("Enter the height of the pyramid : ");
         float height = sc.nextFloat();
         System.out.println("The Volume of the Pyramid is : " + (base * height /3));
+        sc.close();
     }
 }

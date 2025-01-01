@@ -8,5 +8,6 @@ public class Basic9 {
         System.out.print("Enter the side of the Equilateral Triangle");
         float side = sc.nextFloat();
         System.out.println("The perimeter of the Equilateral Triangle is : " + (3*side));
+        sc.close();
     }
 }

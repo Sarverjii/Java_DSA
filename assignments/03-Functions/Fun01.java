@@ -47,5 +47,6 @@ public class Fun01 {
         System.out.print("Enter Number 3 : ");
         int num3 = sc.nextInt();
         System.out.println("The maximum Number is " + Max(num1,num2,num3) + " and Minimum Number is " + Min(num1,num2,num3));
+        sc.close();
     }
 }

@@ -16,5 +16,6 @@ public class Inter20 {
             }
             max++;
         }
+        sc.close();
     }
 }

@@ -14,5 +14,6 @@ public class Inter16 {
             reveString += s.charAt(i);
         }
         System.out.println("The reversed String is : " + reveString);
+        sc.close();
     }
 }

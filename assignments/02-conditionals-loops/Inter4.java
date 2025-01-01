@@ -19,5 +19,6 @@ public class Inter4 {
             System.out.println("Your Discount is "+(price*0.3)+" and the final MRP is "+(price*0.7));
         else 
             System.out.println("Your Discount is "+(price*0.4)+" and the final MRP is "+(price*0.6));
+        sc.close();
     }
 }

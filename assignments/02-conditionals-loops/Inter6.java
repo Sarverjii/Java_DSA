@@ -19,5 +19,6 @@ public class Inter6 {
             System.out.println("Your Commission is "+(price*0.3));
         else 
             System.out.println("Your Commission is "+(price*0.4));
+        sc.close();
     }
 }

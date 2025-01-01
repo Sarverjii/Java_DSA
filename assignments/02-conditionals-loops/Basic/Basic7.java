@@ -8,5 +8,6 @@ public class Basic7 {
         System.out.print("Enter the length of the side of a equilateral Triangle");
         float l = sc.nextFloat();
         System.out.println("Area of the Equilateral Triangle is : " + ((1.732/4)*l*l));    
+        sc.close();
     }
 }

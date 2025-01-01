@@ -28,5 +28,6 @@ public class Basic21 {
         }
         else
             System.out.println("Invalid Input");
+        sc.close();
     }
 }

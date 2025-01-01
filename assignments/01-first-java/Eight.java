@@ -21,5 +21,7 @@ public class Eight {
             System.out.println("The Given String : "+input+" is a palindrome");
         else    
             System.out.println("The Given String : "+input+" is not a palindrome");
+        sc.close();
     }
+
 }

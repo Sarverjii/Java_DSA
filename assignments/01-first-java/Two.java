@@ -8,5 +8,6 @@ public class Two {
         String name = sc.nextLine();
 
         System.out.println("Welcome "+name);
+        sc.close();
     }
 }

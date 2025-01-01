@@ -13,5 +13,6 @@ public class Three {
 
         float SI = P*R*T/100;
         System.out.println("The Calculated Simple Interest is : "+SI);
+        sc.close();
     }
 }

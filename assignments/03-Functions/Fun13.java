@@ -32,5 +32,6 @@ public class Fun13 {
         int end = sc.nextInt();
         System.out.println("Prime numbers between " + start + " and " + end + " are:");
         printPrimes(start, end);
+        sc.close();
     }
 }

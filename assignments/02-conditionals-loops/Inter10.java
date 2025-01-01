@@ -44,5 +44,6 @@ public class Inter10 {
             totalcredit += credit;
         }
         System.out.println("Your CGPA is : "+(total*1.0/totalcredit*1.0));
+        sc.close();
     }
 }

@@ -10,5 +10,6 @@ public class Basic3 {
         System.out.print("Enter the breath of the Rectangle : ");
         float b = sc.nextFloat();
         System.out.println("Area of the rectangle is : "+l*b);
+        sc.close();
     }
 }

@@ -22,5 +22,6 @@ public class Inter22 {
             System.out.println("Entered Number is a perfect number.");
         else    
             System.out.println("Entered number is not a perfect number");
+        sc.close();
     }
 }

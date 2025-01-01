@@ -16,5 +16,6 @@ public class Basic24 {
             
         }
         System.out.println("The sum of all the inputed Numbers is : " + sum);
+        sc.close();
     }
 }

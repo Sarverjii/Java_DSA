@@ -14,5 +14,6 @@ public class Fun14 {
 
         int n = sc.nextInt();
         System.out.println("Sum of first " + n + " natural numbers is: " + sumOfFirstNNaturalNumbers(n));
+        sc.close();
     }
 }   

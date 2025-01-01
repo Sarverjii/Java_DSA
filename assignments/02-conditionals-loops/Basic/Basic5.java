@@ -10,6 +10,7 @@ public class Basic5 {
         System.out.print("Enter the height of the Parallelogram : ");
         float height = sc.nextFloat();
         System.out.println("The area of the Parallelogram is : " + (base*height));
+        sc.close();
     }
     
 }

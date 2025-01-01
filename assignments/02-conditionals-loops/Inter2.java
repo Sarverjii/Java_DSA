@@ -18,5 +18,6 @@ public class Inter2 {
             System.out.println("Your Bill Is : " + (800 + (units-150.0)*7));
         else
             System.out.println("Your Bill Is : " + (1150 + (units-200.0)*8));
+        sc.close();
     }
 }

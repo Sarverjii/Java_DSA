@@ -6,5 +6,6 @@ public class Six {
         System.out.println("Enter currecncy in rupees");
         float money = sc.nextFloat();
         System.out.println(money + " rupees in USD are " + (money *80));
+        sc.close();
     }
 }

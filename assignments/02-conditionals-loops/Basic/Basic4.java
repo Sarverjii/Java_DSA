@@ -11,5 +11,6 @@ public class Basic4 {
         float b = sc.nextFloat();
         double area = (b/2) * Math.sqrt(((a*a) - (b*b/4)));
         System.out.println("Area of the Isosceles Triangle is : "+area); 
+        sc.close();
     }
 }

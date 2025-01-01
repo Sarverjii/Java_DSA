@@ -16,6 +16,6 @@ public class Fun05 {
         System.out.print("Enter Number 2 : ");
         int num2 = sc.nextInt();
         System.out.println("The Product of these 2 numbers is : "+ Prod(num1, num2));
-        
+        sc.close();
     }
 }

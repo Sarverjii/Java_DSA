@@ -15,12 +15,13 @@ public  class Fun10 {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();    
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();    
         if (isPalindrome(n)) {
             System.out.println(n + " is a palindrome");
         } else {
             System.out.println(n + " is not a palindrome");
         }
+        sc.close();
     }
 }

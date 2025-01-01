@@ -8,5 +8,6 @@ public class Basic12 {
         System.out.print("Enter the side of the Square");
         float side = sc.nextFloat();
         System.out.println("The Perimeter of the Sqaure is : " + 4*side);
+        sc.close();
     }
 }

@@ -11,5 +11,6 @@ public class Basic16 {
         float h = sc.nextFloat();
 
         System.out.println("The Volume of the Cylinder is : " + (3.14 * r * r * h));
+        sc.close();
     }
 }

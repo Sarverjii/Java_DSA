@@ -13,5 +13,6 @@ public class Basic15 {
         float length = sc.nextFloat();
 
         System.out.println("The Volume of the Prism is : "+(height*base*length/2));
+        sc.close();
     }
 }

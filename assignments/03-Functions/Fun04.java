@@ -15,7 +15,7 @@ public class Fun04 {
         int num1 = sc.nextInt();
         System.out.print("Enter Number 2 : ");
         int num2 = sc.nextInt();
-        System.out.println("The Sum of these 2 numbers is : "+ SUM(num1, num2));
-        
+        System.out.println("The Sum of these 2 numbers is : "+ SUM(num1, num2));    
+        sc.close();
     }    
 }

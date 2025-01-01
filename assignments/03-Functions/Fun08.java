@@ -33,9 +33,10 @@ public class Fun08 {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Enter your marks (out of 100): ");
-        int marks = scanner.nextInt();
+        int marks = sc.nextInt();
         displayGrade(marks);
+        sc.close();
     }
 }

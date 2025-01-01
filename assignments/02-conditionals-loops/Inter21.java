@@ -11,6 +11,6 @@ public class Inter21 {
             System.out.println("Entered Character is a Vowel.");
         else 
             System.out.println("Entered character is a consonant.");
-        
+        sc.close();
     }
 }

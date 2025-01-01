@@ -17,5 +17,6 @@ public class Basic22 {
         }
 
         System.out.println("The Difference Between the Product and sum of digits is : "+(prod-sum));
+        sc.close();
     }
 }

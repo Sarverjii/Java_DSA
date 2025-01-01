@@ -30,5 +30,7 @@ public class Seven {
         }
         else
             System.out.println("Invalid Input");
-    }
+        sc.close();
+        
+        }
 }

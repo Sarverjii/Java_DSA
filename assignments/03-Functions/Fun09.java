@@ -13,8 +13,9 @@ public class Fun09 {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
         System.out.println("Factorial of " + n + " is " + factorial(n));
+        sc.close();
     }
 }

@@ -14,5 +14,6 @@ public class Inter24 {
             number /= 10;
         }
         System.out.println("Sum of the Digits of the Number is : " + sum);
+        sc.close();
     }  
 }

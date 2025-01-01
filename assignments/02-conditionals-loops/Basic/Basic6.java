@@ -10,6 +10,6 @@ public class Basic6 {
         System.out.print("Enter the length of the second diagonal : ");
         float d2 = sc.nextFloat();
         System.out.println("The area of the rombus is = " + (d1*d2/2));
-
+        sc.close();
     }
 }

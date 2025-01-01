@@ -21,5 +21,6 @@ public class Inter23 {
                     System.out.println("Entered Year is not a leap year");
             } 
         }
+        sc.close();
     }    
 }

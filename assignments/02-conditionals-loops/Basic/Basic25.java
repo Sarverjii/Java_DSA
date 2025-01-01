@@ -15,5 +15,6 @@ public class Basic25 {
                 break;
         }
         System.out.println("The Biggest number of all the numbers was : " + high);
+        sc.close();
     }
 }

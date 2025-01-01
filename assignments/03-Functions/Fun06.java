@@ -11,9 +11,10 @@ public class Fun06 {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Enter the radius of the circle: ");
-        float radius = scanner.nextFloat();
+        float radius = sc.nextFloat();
         circle(radius);
+        sc.close();
     }
 }

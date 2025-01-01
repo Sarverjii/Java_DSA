@@ -24,6 +24,6 @@ public class Inter15 {
         double nPr = Factorial(n) / Factorial(n-r);
         double nCr = Factorial(n) / (Factorial(n-r)*Factorial(r)*1.0);
         System.out.println("The Value of nCr = " + nCr + "\nThe Value of cPr = " + nPr);
-        
+        sc.close();
     }
 }

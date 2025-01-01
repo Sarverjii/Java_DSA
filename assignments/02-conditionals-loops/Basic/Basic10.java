@@ -11,5 +11,6 @@ public class Basic10 {
         float b = sc.nextFloat();
 
         System.out.println("The Perimeter of the Parallelogram is : " +(l+l+b+b));
+        sc.close();
     }
 }

@@ -23,5 +23,6 @@ public class Fun07 {
         } else {
             System.out.println(number + " is not a prime number.");
         }
+        sc.close();
     }
 }

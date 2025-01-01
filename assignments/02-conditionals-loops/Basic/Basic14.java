@@ -10,5 +10,6 @@ public class Basic14 {
         System.out.print("Enter the height of the Cone : ");
         float h = sc.nextFloat();
         System.out.println("The Volume of the cone is : " + (3.14*r*r*h/3));
+        sc.close();
     }
 }

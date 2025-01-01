@@ -14,5 +14,6 @@ public class Inter11 {
         int T = sc.nextInt();
         double CI = P * Math.pow((1 + R/100.0), (T*12));
         System.out.println("The Principle Calculated in "+(T*12)+" Months is : "+ CI);
+        sc.close();
     }
 }

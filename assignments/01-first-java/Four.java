@@ -30,6 +30,7 @@ public class Four{
                 System.out.println("Wrong Choice. Exiting...");
                 break;
         }
+        sc.close();
         
     }
 }

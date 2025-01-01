@@ -15,5 +15,6 @@ public class Inter9 {
             sum += sc.nextInt();
         }
         System.out.println("The Average Batting Score is : " + (sum/(wickets+2)));
+        sc.close();
     }
 }

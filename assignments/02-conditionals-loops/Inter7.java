@@ -18,5 +18,6 @@ public class Inter7 {
             prod *=num;   
         }
         System.out.println("The power of the number using LooP is : "+prod);
+        sc.close();
     }
 }

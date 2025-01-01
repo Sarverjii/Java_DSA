@@ -13,5 +13,6 @@ public class Inter1 {
             fact *= i;
         }
         System.out.println("The Factorial of the number "+n+" is : "+ fact);
+        sc.close();
     }
 }

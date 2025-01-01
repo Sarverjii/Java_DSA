@@ -15,5 +15,6 @@ public class Inter3 {
         }
 
         System.out.println("The Average is : " +(sum*1.0/numbers * 1.0));
+        sc.close();
     }
 }

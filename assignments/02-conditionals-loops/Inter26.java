@@ -29,5 +29,6 @@ public class Inter26 {
         System.out.println("The Sum of Negative Numbers is : " +neg_sum);
         System.out.println("The sum of Postivie Even Numbers is : "+pos_even_sum);
         System.out.println("The Sum of Positive Odd Numbers is : " + pos_odd_sum);
+        sc.close();
     }
 }

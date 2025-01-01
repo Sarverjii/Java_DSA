@@ -13,5 +13,6 @@ public class Inter18 {
             System.out.println("Your Future Investment Value after 2 Years "+((price*0.2)+price));
             System.out.println("Your Future Investment Value after 3 Years "+((price*0.3)+price));
             System.out.println("Your Future Investment Value aftre 4 Years "+((price*0.4)+price));
+        sc.close();
     }
 }

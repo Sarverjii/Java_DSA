@@ -14,5 +14,6 @@ public class Inter13 {
             sum += sc.nextInt();
         }
         System.out.println("The Sum of all the numbers is : " + sum);
+        sc.close();
     }
 }

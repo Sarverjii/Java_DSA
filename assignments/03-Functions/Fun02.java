@@ -16,6 +16,6 @@ public class Fun02 {
         System.out.print("Enter the number you want to check for Even or Odd : ");
         int num = sc.nextInt();
         System.out.println("The Entered Number is " + Even0rOdd(num));
-
+        sc.close();
     }
 }
